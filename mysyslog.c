@@ -4,9 +4,9 @@
  * implements the mysyslog command, taking the command line argument and sending it
  * to the syslog using our new my_syslog system call.
  *
- * author: burt
- * created: sep 2015
- * updated: 13 sep 2016
+ * author: Jorge Banegas
+ * created: Oct 18 2017
+ * updated: Oct 20 2017
  *
  * returns the error value of syscall and command result
  *
