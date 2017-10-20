@@ -9,10 +9,8 @@
 /*
  * ringbuf - command to enqueue dequeue and test the in-kernel ringbuffer
  *
- * you do: implement the rb_* calls in the file ringbuf-sub.c
- *
- * author: burt
- * date: sep 2016
+ * author: Jorge Banegas
+ * date: Oct 20 2017
  * update: 
  *
  */
