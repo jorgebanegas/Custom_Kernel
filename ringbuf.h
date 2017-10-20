@@ -1,7 +1,7 @@
 
 /*
- * name: burt
- * date: sep 2016
+ * name:  Jorge Banegas
+ * date: Oct 2017
  *
  * header file for ringbuf.c and ringbuf-sub.h 
  *
