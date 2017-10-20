@@ -8,12 +8,11 @@
 #include "mysyscalls.h"
 
 /*
- * author: 
- * date: 
+ * author: Jorge Banegas
+ * date: Oct 20 2017
  * pledge: this is my own work, unless otherwise noted
  *
- * this is a template. change "author" and continue work
- * Hint: see mysyslog.c to see how to use syscall( syscall-number, arguments ... ) 
+ * 
  *
  * update: 
  */
